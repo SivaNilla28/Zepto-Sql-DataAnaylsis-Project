@@ -1,3 +1,4 @@
+--This project is done in MS SQL.
 create database Zepto_SQL_Project
 
 use Zepto_SQL_Project
